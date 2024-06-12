@@ -1,0 +1,25 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+.conten1 img{
+body{
+    background-color: #c26190;
+  }
+  height: 100px;
+  }
+.conten1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+p{
+  font-size: 60px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.pastel img{
+  height: 400px;
+}
+.conten2{
+  display: flex;
+  
